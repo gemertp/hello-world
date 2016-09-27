@@ -1,2 +1,4 @@
 # hello-world
-My first github steps
+Peter van Gemert
+Nederland
+Shell scripter
